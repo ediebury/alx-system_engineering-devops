@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 7s4 hello
+chmod u+x 7s4 hello
